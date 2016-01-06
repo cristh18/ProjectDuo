@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Cristhian\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\Cristhian\Downloads\Telegram Desktop\Football_Scores-master\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-6f9e33f0f9d31bc73c36ea10da0fa3c5127db8df.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cristhian\Downloads\Telegram Desktop\Football_Scores-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Cristhian\Downloads\Telegram Desktop\Football_Scores-master\app\build\intermediates\pre-dexed\debug\classes-09bab64198088a66fb11e219f9c68e6e4490b2f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cristhian\Downloads\Telegram Desktop\Football_Scores-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Cristhian\Downloads\Telegram Desktop\Football_Scores-master\app\build\intermediates\pre-dexed\debug\classes-ed8506ddc84df3612e074c2f36cb1b8ea0f4bb00.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cristhian\Downloads\Telegram Desktop\Football_Scores-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Cristhian\Downloads\Telegram Desktop\Football_Scores-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-858fd2d903cedf7313cdd2186ca5d21ec36906f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cristhian\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Cristhian\Downloads\Telegram Desktop\Football_Scores-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-4f6225ecdbb8990959eb9facd984ec711102ffea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cristhian\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Cristhian\Downloads\Telegram Desktop\Football_Scores-master\app\build\intermediates\pre-dexed\debug\okio-1.6.0-8eb5899f372e3ad461202123c07ae4535432de83.jar" />
+    </item>
+
+</items>

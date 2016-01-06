@@ -1,0 +1,8 @@
+C:\Users\Cristhian\AndroidStudioProjects\alexandria\app\build\intermediates\coverage-instrumented-classes\debug
+C:\Users\Cristhian\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-4f6225ecdbb8990959eb9facd984ec711102ffea.jar
+C:\Users\Cristhian\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\android-integration-3.2.1-356b58113ca707a9e2227f1bf7289ab1fc6d1761.jar
+C:\Users\Cristhian\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-412e16368b2dc339b534ad1c4b5b88f9a47bee64.jar
+C:\Users\Cristhian\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\jacocoagent-683766119313776de9fdcd64faef4cc96420415a.jar
+C:\Users\Cristhian\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\classes-80bcb48e295d0a6293854f0589ecf4bfccbdd0eb.jar
+C:\Users\Cristhian\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\core-3.2.1-698c07c9c8b80b2863c836cbb0675b2d5baf0e79.jar
+C:\Users\Cristhian\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\classes-460d2a26401f6ede89bf130e2167c98a7a996e2f.jar

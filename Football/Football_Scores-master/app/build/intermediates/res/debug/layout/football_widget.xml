@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dp">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#bbDEDFDE"
+        android:orientation="vertical">
+
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#eee"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <!--<Button-->
+            <!--android:id="@+id/buttonOpenApp"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Open application" />-->
+
+            <TextView
+                android:id="@+id/TittleApp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Football Scores"
+                android:textColor="@color/bright_foreground_material_light" />
+
+        </LinearLayout>
+
+        <!-- ListView to be shown on widget -->
+        <ListView
+            android:id="@+id/listViewWidget"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <!-- Empty view is show if list items are empty -->
+        <TextView
+            android:id="@+id/empty_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="empty_string"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:visibility="gone" />
+
+    </LinearLayout>
+</FrameLayout><!-- From: file:/C:/Users/Cristhian/Downloads/Telegram%20Desktop/Football_Scores-master/app/src/main/res/layout/football_widget.xml -->
