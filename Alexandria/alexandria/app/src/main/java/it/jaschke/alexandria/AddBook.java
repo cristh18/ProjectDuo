@@ -10,6 +10,7 @@ import android.support.v4.app.LoaderManager;
 import android.support.v4.content.CursorLoader;
 import android.text.Editable;
 import android.text.TextWatcher;
+import android.util.Log;
 import android.util.Patterns;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -123,8 +124,6 @@ public class AddBook extends Fragment implements LoaderManager.LoaderCallbacks<C
                 toast.show();
                 IntentIntegrator integrator = new IntentIntegrator(getActivity());
                 integrator.initiateScan();
-
-
             }
         });
 
@@ -155,6 +154,9 @@ public class AddBook extends Fragment implements LoaderManager.LoaderCallbacks<C
     }
 
     private void restartLoader() {
+        Log.e(TAG.concat("1"), String.valueOf(LOADER_ID));
+        Log.e(TAG.concat("2"), String.valueOf(getLoaderManager()));
+
         getLoaderManager().restartLoader(LOADER_ID, null, this);
     }
 
@@ -285,4 +287,5 @@ public class AddBook extends Fragment implements LoaderManager.LoaderCallbacks<C
         }
         return  isbnContentValue;
     }
+
 }
